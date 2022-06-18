@@ -1,227 +1,354 @@
 {
   "Config": [
     {
-      "interval": 5,
+      "interval": 2,
       "backup": "unity",
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
-      
       "addon": true,
       "maps": true,
       "texture": true,
       "skin": true,
-      "more": true,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
+      "more": false,
+      "admob_open_ads": "ca-app-pub-3044835834543602/5440282298",
+      "admob_banner": "ca-app-pub-3044835834543602/9364049589",
+      "admob_inter": "ca-app-pub-3044835834543602/6753363966",
+      "admob_native": "ca-app-pub-3044835834543602/6546314551",
       "unity_banner": "Banner_Android",
       "unity_inter": "Interstitial_Android",
-      
-      
       "applovin_banner": "unitid",
       "applovin_inter": "unitid",
       "applovin_native": "unitid",
-      
       "ironsource_banner": "1215fccad",
       "ironsource_inter": "1215fccad"
-      
-      
     }
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Bridge Addon (Version 1.3.2)",
+      "role": "This Addon adds 12 bridges to your world. Nearly every bridge has 2 parts. A Start Part and a End Part. 4 Bridges only have one Part You can build your own bridge, as long as you want out of this. You can walk over the bridge or use it for decoration. It is a nice thing for every world. Hope you enjoy the Addon!!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1/1.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1/Bridge.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1/3.jpeg"
+    },
+    {
+      "name": "Bridge Worm Add-on",
+      "role": "Have you ever wanted bridge worm in Minecraft PE? Well, if so this add-on is for you! From one of Trevor Henderson's wacky wicked creations it's Bridge Worm! Though... Make sure to look before you go under a bridge.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/Bridge-Worm-Add-on.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/3.png"
+    },
+    {
+      "name": "Bridge Worm Add-on",
+      "role": "Have you ever wanted bridge worm in Minecraft PE? Well, if so this add-on is for you! From one of Trevor Henderson's wacky wicked creations it's Bridge Worm! Though... Make sure to look before you go under a bridge.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/Bridge-Worm-Add-on.mcaddon",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/3/3.png"
+    },
+    {
+      "name": "Wood Bridges V1.0 (1.16.100.56 Only)",
+      "role": "Have you ever wanted a decorative way to traverse mountains? If you answered yes this Add-On is for you! This Add-On will add 8 different variants of bridges all made out of wood.",
+      "image": "https://kossandroid.comData Android/Minecraft/Bridge/4/1.png/",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/4/Wood_Bridges_V1.0.mcaddon",
+      "imgcoversatu": "https://kossandroid.comData Android/Minecraft/Bridge/4/1.png/",
+      "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Bridge/4/1.png/"
     }
   ],
   "Map": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Two-Block Bridge",
+      "role": "This is the Bridge, on Bedrock Edition, with a two-block wide bridge. If you haven't heard of it yet, it is where two players try to score a goal on their opponent's side by crossing a bridge.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/TwoBlock_Bridge.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/3.png"
+    },
+    {
+      "name": "Fast Bridging Trainer",
+      "role": "Do you like bedwars and skywars? I like. This map is for training bridging skills. There are three modes: onestack, straight and andromeda. If you have some questions ask me. I'll answer your question. I hope you'll enjoy this map.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/Fast bridging trainer.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png"
+    },
+    {
+      "name": "Bridge But Good!",
+      "role": "Bridge But Good!!! This map was made by Apsoma and Elementmax. ",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/2.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/BridgeButGoodEngV1.0.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/3.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/5/4.png"
+    },
+    {
+      "name": "Coffee Mango's Bridging Practice Map",
+      "role": "It's a bridging map! So there are two little floating islands, you have to bridge from the main one to the other, while you bridge, a timer (stopwatch) runs on the side of your screen! You can practice normal bridging, and staircase bridging, and now DIAGONAL BRIDGING! You spawn in the lobby, where you can choose what kind of bridging you will be doing!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/Coffee_Mangos_Bridging_2.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/2/3.png"
+    },
+    {
+      "name": "Two-Block Bridge",
+      "role": "This is the Bridge, on Bedrock Edition, with a two-block wide bridge. If you haven't heard of it yet, it is where two players try to score a goal on their opponent's side by crossing a bridge.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/1.png",
+      "file_url": "https://kossandroid.com//Data Android/Minecraft/Bridge/3/TwoBlock_Bridge.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/3/3.png"
+    },
+    {
+      "name": "Speed Bridge Help World",
+      "role": "The best way to get between gaps in Minecraft is placing blocks, there are ineffective ways to do this, but like anything there are effective ways like speed bridging, this world will help with all ways of speed bridging!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/Speed-Bridge-Help-V.1.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/7/3.png"
+    },
+    {
+      "name": "Bridge Practice",
+      "role": "This is a practice map for bridging in minecraft and works  for players of all skill level. This will improve your bridging skills on servers and games such as bedwars, skywars etc.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/8/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/8/BridgePractice.mcworld",
+      "imgcoversatu": "https://kossandroid.com//Data Android/Minecraft/Bridge/8/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/8/3.png"
+    },
+    {
+      "name": "Arena PVP + Bridging Practice",
+      "role": "This map is an Arena PVP practice, a small arena with lots cover you can choose 2 kits: Netherite set + Netherite sword or Iron set + Iron sword. You can also practice bridging, god bridging, ninja bridging, etc.This map is an Arena PVP practice, a small arena with lots cover you can choose 2 kits: Netherite set + Netherite sword or Iron set + Iron sword. You can also practice bridging, god bridging, ninja bridging, etc.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/9/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/9/PVP PRACTICE1.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/9/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/9/3.png"
+    },
+    {
+      "name": "Fast Bridge Practice",
+      "role": "A single player world by Locura489 to practice your skills to run on walls and build bridges in different ways and quickly, so you can escape, save or chase someone without fail and always win.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/10/1.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/10/xgQ8YeQJAQA=.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/10/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/10/3.png"
+    },
+    {
+      "name": "Craftzhie Bridging Academy",
+      "role": "What is going on everybody, It's me Craftzhie again. In this submission, I uploaded a map. This map is made in Indonesia. And also I used Void Lobby by CatAstrophe7777 to make this, Credit to him.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/11/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/11/Craftzhie-Bridging-Academy.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/11/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/11/3.png"
+    },
+    {
+      "name": "Bridge Training (Easy)",
+      "role": "This is a world that you can bridge so you can become better at bridging in Minecraft, and you can even impress your friends and family members. This is a really fun map if you're bored.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/13/1.jpeg",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/13/pgVlYRkMFgA.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/13/2.jpeg",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/13/3.jpeg"
+    },
+    {
+      "name": "The Bridge of the Nether",
+      "role": "I am a Maps maker from Minecraft China, but it's the review is taking too long of a time time on Minecraft China (1 month), So I will try to upload it on this website.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/14/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/14/the-bridge.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/14/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/14/1.png"
+    },
+    {
+      "name": "Coffee Mango's Bridging Practice Map",
+      "role": "It's a bridging map! So there are two little floating islands, you have to bridge from the main one to the other, while you bridge, a timer (stopwatch) runs on the side of your screen! You can practice normal bridging, and staircase bridging, and now DIAGONAL BRIDGING! You spawn in the lobby, where you can choose what kind of bridging you will be doing!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/15/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/15/Coffee_Mangos_Bridging_2.mcworld",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/15/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/15/3.png"
     }
   ],
   "Texture": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
+      "name": "Bridge Eggs Addon",
+      "role": "This Addon makes bridges with eggs! Simply throw an egg and a trail of white wool blocks will spawn. This will create an effective bridge that requires only chicken eggs. ",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/4/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/4/Bridge Eggs.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/4/2.png ",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/4/3.png"
+    },
+    {
+      "name": "Popblade's Bridge Texture Pack",
+      "role": "Want a texture pack specifically designed for the bridge just like java edition? Then this is just the pack for you! This pack is designed for the bridge! It works in hyperlands and in nether games! This pack offers a great and creative design!",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/6/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/6/Popblades_Bridge_Texture_Pack.mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/6/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/6/3.png"
+    },
+    {
+      "name": "Instant Bridge (B)",
+      "role": "This add-on adds instant bridges which are generated by interacting with the instant bridge block. You can also activate and deactivate them whenever you want by interacting with the instant bridge block.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/instant bridge 3.1[B].mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/2.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/3.png"
+    },
+    {
+      "name": "Instant Bridge (R)",
+      "role": "This add-on adds instant bridges which are generated by interacting with the instant bridge block. You can also activate and deactivate them whenever you want by interacting with the instant bridge block.",
+      "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/1.png",
+      "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/instant bridge 3.1[R].mcpack",
+      "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/4.png",
+      "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/5/2.png"
     }
   ],
   "Skins": [
     {
-    "id": 1,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/11nG6hDcH4b71A-P4gMgmvhfP9dLBQjYtQG6DZUED1Qd85gaEBPUbRydu5PrA7xXh8b6LkBH5viHpWGG0Q5Jqp8",
-    "view_skin": "https://lh3.googleusercontent.com/ael-0KptTHW3lcnv4d5ZIYjWMggJ2lzrl_WX5cDVelqji-ouaqfyAPJHdpXD8gUWOGrMYP_bZtsp-04w55Gi4w"
-  },
-  {
-    "id": 2,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/hH39DK3Imu8Xq4IyU7UDYARxRmYNj9l3AS3EvxgNbEyYkzGokdpWru6WfZmpi05y1UPkEOnNDoxAC5mdplk",
-    "view_skin": "https://lh3.googleusercontent.com/jjHu2FXVgv5wMOTC4IDTE2swoOF41CAbnaGwnr50w_4ikp656SAtz5CL6c0Ax22mqQRuiQQQz1PLEcPoSjOT"
-  },
-  {
-    "id": 3,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/TxGtLtV-rx3tzwCcHk5z5Cwvefv57j4DoyJdUbzWMYNde20hEsQ32ZZTJgGCFs5CNxjcJ5hrS-eCizQporDbvw",
-    "view_skin": "https://lh3.googleusercontent.com/9tmwNt06pQiRvgoSjsikst4D_Ih5jcdit96TaewR8zFIzf2YPkhFBCgY1ZR1juu4EW5QSuilTYfdo69t_mHq"
-  },
-  {
-    "id": 4,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/HRi95fcgyuUln92BMDbLgp1EGEnT3hoUqe-KLOaGSWvrK9oI0xBePjxn_shOTbSTDDzflqxn7ld3DnCWEnEF_dYk4AawO6aghi4",
-    "view_skin": "https://lh3.googleusercontent.com/f7XgJnVifrrn9CIPN_RCjUHDCQwxXsGDV1X-DiE-nlaA8lx3XZCL1fdgyWRQVolmTcvf4t69_Md-1On5tGmd-jTn3FfJOlFhHe8"
-  },
-  {
-    "id": 5,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/rPMgvlttSsXJee59l8HhhAChCEmRfqH778ilUzTnn7awc5kZrQ3n6bzTV9J0wjkcdWtE2_PvcfXc1utYM_SkSsAHojVvzeM7aOI",
-    "view_skin": "https://lh3.googleusercontent.com/o2o0HOcF786c0dC-rTOAa3H1rA2-JqPvvSS85hormJotBNe2j0Eq_b86TSJvHjLNzFjJFwAjcdSEjBWT1k5M7KDqZocufCIoyHaV"
-  },
-  {
-    "id": 6,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/A2b9QGy1W1VThAR4uILFtUkHOMmmAkHRPBdazftHpI7c3wOeb5ryp038A3l01o54ZX_e6-Z-x0Nu8yBgWguqLvnQ_qmd0Vecy8Y",
-    "view_skin": "https://lh3.googleusercontent.com/r9nUc_V87Yx2VP_Cemj8pGy9LuSSHSGRx6hOulAcdVBuhEk3zKEsr6QaDdNMC7_QTgRWNvIzZJ9hBJjYYCYI3XKh4Z9LmhQn9A"
-  },
-  {
-    "id": 7,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/tQSx2vw3TsCOr2M_foRknw6f-ZUHV0IaTn2qTl4jIAirPGKFVkEIXQymfHE44uhY9hx53v5gZh7iE4fbL627tD-X2qOkyh32CQ",
-    "view_skin": "https://lh3.googleusercontent.com/3oUta0XOYlC_c4AvVM-Gts0mK4sZxgWnFZOrUt0ysVB9BeBquKHiXcS-bqurIWBbtXLn_BMY1GVYa5QCPD6XB_o4Jgerod3meDo"
-  },
-  {
-    "id": 8,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/Y-Ju6VFdPS81ukTdrdK0RZmZMvd2sovD7jrVM9GF69EKbcjFoTGzuu0qQyTdKKFCrff6KAZYTnT6wyogcnNtHMvYfnj7MUc6iw",
-    "view_skin": "https://lh3.googleusercontent.com/69wm93HahjM6Acqdd8W3LGNCCoX9zi0DZg31AnQvoHVpHmxa7saqYbCLN19hKfPY0ht8MldFPcDJb9q1dP-KFqnVNyd2_mmeoA"
-  },
-  {
-    "id": 9,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/7dnTCKTdeZ1cXIRFtcXujAAUYLk0hiKFJmDKfiRZcqqcA132xs4utCHdrIavQRFw-bLRKQqS5MBn0eD6jZl3gUA318JdjaDkNnwy",
-    "view_skin": "https://lh3.googleusercontent.com/Umd8aIwuUWZqrDpq9Hk4dCJefnfqT6JFtZ9NOIOM-5GvEGju2_qv81mL0KN_wgZjO9ZbklKkZmqV5vSwojZkz4ptzQNJSoiRCA"
-  },
-  {
-    "id": 10,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/p2bHtJunskGjK7mm5gxOjf1dhkgvcp229JJ5G4X8s1yyTaItziZ-JKfIkAAGzaDh5OuLEvgG0lfYK9_3z0SXDeeaYbpUY_TRoWw",
-    "view_skin": "https://lh3.googleusercontent.com/214YvmhO5j_dPy86cwo1c2O5lkKUbryvqN5otkbbzjW-2tQY-GWqqp6UwoTcntDSye9hIARn6VB23rgyZWSqvNJ5xmzLswbqxf6Y"
-  },
-  {
-    "id": 11,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/hd36u2pMWnCyxrAKOsEVu6cADKzWucIZJyeKBDucpJhpQ1XgBxp7F97CjRckPzd8zRY4DBJDH5MaENpmxRmD7HIAU2E0eMoyHQ",
-    "view_skin": "https://lh3.googleusercontent.com/IMp89wEl9cVIXFrK6sym4J1pD_nYS6-ejn3W06kazG5Pos-rTOcw8up2gPIINUZOpjIIK-jdLObgYX5GDJzRIYeXWP3O5slezsc"
-  },
-  {
-    "id": 12,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/1V3PgvBt-v33jeFYrSXsFFuFQbg6z0Mz_ReqWA8RIKuCiIL1mirk9hV8r8xB0feLDa_fx-lnp8gNwcJzAFFZ7aak4fi9wFkVvA",
-    "view_skin": "https://lh3.googleusercontent.com/Ds4ueSmuBYZhH4VdG9By8T4rh8zSccWHX7A-1InD5EbW5oqzrpxtCJw6VJwUZDqOVl0goGD3nB--KUzy_gr8Z56qYXpgXSwkpik"
-  },
-  {
-    "id": 13,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/iHuOyEVD3AuNOE7IvaiDgbx7ASQHqS-ce8zjW9QIOkzKODguicBagClAWADJRUUwUhxSB53z1sQMK28YqshnR61mo7SjNWxBag",
-    "view_skin": "https://lh3.googleusercontent.com/Xi7pHzKhdtWqQWCswn81_3O2hjL6NfBhXybnxK3W3r1bqMr-cphFJMpQa30wcjIshRJQOY17mykeVyLDVK5sE82UW4eixtl3mA"
-  },
-  {
-    "id": 14,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/WNoiKe_jzB4JcQSDRxMEq2I5Lk7JAYO58YJahLpXP630KcY984kFySdhZCSVhwUcMzgPhK_VE_hjW5ulHcOGSjradEuM3e9o-On0",
-    "view_skin": "https://lh3.googleusercontent.com/aQBmvYBsa1QQT-ANIqpo3KeIb6HbNIi2upmr6Dleprer6b6CU324JH9CJJryaNkEggfZUAygg1YL3xaEwTj0wixQu_y7ClPy-pwH"
-  },
-  {
-    "id": 15,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/ktkuDzLHWqJ21ECRaOoqcomPnQDGp0uAXcn72HoKg0ZwAFGRnbhP9bbwE8EZMNqv9PrIVujdggptnEUd4g88w83mpAxujG-i-w",
-    "view_skin": "https://lh3.googleusercontent.com/QveLrYlJkpDBry_5hMVeqU1sf2W4dw-tDauBzgkJ5O_J5XeCeGyfatYtKabybJ0wxTkrWfng_bgnJR7IQlxPOFheqXeQbgPF3G0"
-  },
-  {
-    "id": 16,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/wqRwmqbJDwpLMQLafuaKyshUp0PZBvdCRjq2sThYz53OcAQHHLFhCsSU0lhtRHlekWnmgZRaN-MhtOKgUfgnXyj9ZYYYhuZN6Pw",
-    "view_skin": "https://lh3.googleusercontent.com/pRZOrqd2l6Ehuanh64fuDIu9a163642WBfTIB5Xr4Td46SYvbFBzB6k_9aGl2GmnskXMs50skDb5QEueznOcbhHR2kV3KHHqTg"
-  },
-  {
-    "id": 17,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/pzBhOgSdUCPAF3E9h1zyYn8NWbIbxstEydfwkzhnKL4q7QIfKsnbt07QGnbgiUklxvm6Mo696FwIW4oEL3QNRw",
-    "view_skin": "https://lh3.googleusercontent.com/-zyJCa82q5mDqvD2FXEW3PBFyh2BEsofb8ejD7Hrig3vpoqNj2Elz8Rgwt2GQr8hbYc_eA4hn__j_hkjxIp_Gw"
-  },
-  {
-    "id": 18,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/2U7FvL_SzpctmNqln4lB9zfyQUH5YIyKgR1fLjYbk1Ts2-vKD1EqcTOnS4kr9_-KbJDCN1cFevHF2mcMKAgx7Z-XddAp7re3OZI",
-    "view_skin": "https://lh3.googleusercontent.com/DaWuhknkF_Frzp41onHNE3IFnp0rPvVSl-vRPpMQOEmgmuDidWiRpFaYJ1GMFSSCA4nN-ExQbLAUfMkHBV5-6hktll4cCiJ_XAc"
-  },
-  {
-    "id": 19,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/zEDoDU-3rsbyyh4gm6qxyufjB7r7iRNa3yugyOfziuDu4ys1ExXH1IG7cxMtGRUNalOuE5CjA1t3iCLPUeO7um80lQQ2Jb2Du58",
-    "view_skin": "https://lh3.googleusercontent.com/YG-IhhFU8fqeXteHX2FiA8FIswYmRtshiwcCcK9UE-OV_3xNWFga1qDt26CBe8tVkd8V5K36JBrzJr-GuhnJd1M7DI51hqvmPa8"
-  },
-  {
-    "id": 20,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/0W2K0YSEmroVs4-M8Xxw5AppW-RCwbQ-CdwNp4NxyloWkzEl5f1wgkcH6Rr8vmJWXxx9ESCEs52r19nF0BJah2FkLKG1y7m19oNA",
-    "view_skin": "https://lh3.googleusercontent.com/aXlRzhhTLD3oiFkvxDrpKn7jEGCmueND_s85t_v2W664PuZn80AMDjL3Pq9sr52GnwVc23PxFgskSWckNryDwtncQengMOZt3A"
-  },
-  {
-    "id": 21,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/c_1ydndTC6Yqn5LXGhWs-W50yevrybdvMycpt0x8XVy6tSg_ni7cGe_vEV4Jpk_utmPNpl4OoIv4vtvWA0IU",
-    "view_skin": "https://lh3.googleusercontent.com/OnevUGmwyCUqSH7pzXd66g9D-hhZOWm1r6Wjra_kEx32vqo1t4wxGm2vzTCN6Pi3mjsKWgD6YZuk3lGTNAudvw"
-  },
-  {
-    "id": 22,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/nAKF9ymmTBnVAVwHTks3liC9pLPMy0-Fa6fVV5nYYKyA3owb4piS55WzQhCLtNJAUp6ES3VU37b1u1v3JVJFnTPZDfyvcFyMpVA",
-    "view_skin": "https://lh3.googleusercontent.com/tk0jzBHqsKJpBN0ASM2WA9pO967vA6pIl4uhFY-UX3m5NYXKxvQyz7soogT5S7FtSFfwJaiEANqED_3ZbdshpGlqvkUICStlDq8"
-  },
-  {
-    "id": 23,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/Mzz0h_NnlzW7M2ZDu57TiQRHE2nfkMwyTz7GKuvkltWg1EGB-erR1xzORkXsYe8XEZcu9WTXeP0tSf49B6jxLp376525b_waKUA5",
-    "view_skin": "https://lh3.googleusercontent.com/F5AQslqjtww7RZ1msOAliOSq51-MXtS0gGPBD0rNUR0i51DbRsvwrZpTseoFe2JJ39OqY1P0WBgQL4nyrcyPXPIGaCLBYeGjJyQ"
-  },
-  {
-    "id": 24,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/YIls6y8e9kqrTaOxn_7JiBezoPKq8DxFI7g3WKCar-KR1JFDk-tBg3nhjIjuNzZQpJouZ6S6LJqnEtDGnqo8RG4V3sVXDUll_2c",
-    "view_skin": "https://lh3.googleusercontent.com/qK8vbVHRs8_zeOuUNJupQlU8IyZWDbGY5Or2b3OrlLxkGZ7tTU5zUmCYUjkvDB3Im8waQlUDzITey2l_GMjVGdK47dUutVHmKw"
-  }
-  ],
-  "More":
-  [
-      
-      
-  
+      "id": 1,
+      "name_skin": "Skin 1",
+      "skin_url": "https://lh3.googleusercontent.com/11nG6hDcH4b71A-P4gMgmvhfP9dLBQjYtQG6DZUED1Qd85gaEBPUbRydu5PrA7xXh8b6LkBH5viHpWGG0Q5Jqp8",
+      "view_skin": "https://lh3.googleusercontent.com/ael-0KptTHW3lcnv4d5ZIYjWMggJ2lzrl_WX5cDVelqji-ouaqfyAPJHdpXD8gUWOGrMYP_bZtsp-04w55Gi4w"
+    },
     {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      "id": 2,
+      "name_skin": "Skin 2",
+      "skin_url": "https://lh3.googleusercontent.com/hH39DK3Imu8Xq4IyU7UDYARxRmYNj9l3AS3EvxgNbEyYkzGokdpWru6WfZmpi05y1UPkEOnNDoxAC5mdplk",
+      "view_skin": "https://lh3.googleusercontent.com/jjHu2FXVgv5wMOTC4IDTE2swoOF41CAbnaGwnr50w_4ikp656SAtz5CL6c0Ax22mqQRuiQQQz1PLEcPoSjOT"
+    },
+    {
+      "id": 3,
+      "name_skin": "Skin 3",
+      "skin_url": "https://lh3.googleusercontent.com/TxGtLtV-rx3tzwCcHk5z5Cwvefv57j4DoyJdUbzWMYNde20hEsQ32ZZTJgGCFs5CNxjcJ5hrS-eCizQporDbvw",
+      "view_skin": "https://lh3.googleusercontent.com/9tmwNt06pQiRvgoSjsikst4D_Ih5jcdit96TaewR8zFIzf2YPkhFBCgY1ZR1juu4EW5QSuilTYfdo69t_mHq"
+    },
+    {
+      "id": 4,
+      "name_skin": "Skin 4",
+      "skin_url": "https://lh3.googleusercontent.com/HRi95fcgyuUln92BMDbLgp1EGEnT3hoUqe-KLOaGSWvrK9oI0xBePjxn_shOTbSTDDzflqxn7ld3DnCWEnEF_dYk4AawO6aghi4",
+      "view_skin": "https://lh3.googleusercontent.com/f7XgJnVifrrn9CIPN_RCjUHDCQwxXsGDV1X-DiE-nlaA8lx3XZCL1fdgyWRQVolmTcvf4t69_Md-1On5tGmd-jTn3FfJOlFhHe8"
+    },
+    {
+      "id": 5,
+      "name_skin": "Skin 5",
+      "skin_url": "https://lh3.googleusercontent.com/rPMgvlttSsXJee59l8HhhAChCEmRfqH778ilUzTnn7awc5kZrQ3n6bzTV9J0wjkcdWtE2_PvcfXc1utYM_SkSsAHojVvzeM7aOI",
+      "view_skin": "https://lh3.googleusercontent.com/o2o0HOcF786c0dC-rTOAa3H1rA2-JqPvvSS85hormJotBNe2j0Eq_b86TSJvHjLNzFjJFwAjcdSEjBWT1k5M7KDqZocufCIoyHaV"
+    },
+    {
+      "id": 6,
+      "name_skin": "Skin 6",
+      "skin_url": "https://lh3.googleusercontent.com/A2b9QGy1W1VThAR4uILFtUkHOMmmAkHRPBdazftHpI7c3wOeb5ryp038A3l01o54ZX_e6-Z-x0Nu8yBgWguqLvnQ_qmd0Vecy8Y",
+      "view_skin": "https://lh3.googleusercontent.com/r9nUc_V87Yx2VP_Cemj8pGy9LuSSHSGRx6hOulAcdVBuhEk3zKEsr6QaDdNMC7_QTgRWNvIzZJ9hBJjYYCYI3XKh4Z9LmhQn9A"
+    },
+    {
+      "id": 7,
+      "name_skin": "Skin 7",
+      "skin_url": "https://lh3.googleusercontent.com/tQSx2vw3TsCOr2M_foRknw6f-ZUHV0IaTn2qTl4jIAirPGKFVkEIXQymfHE44uhY9hx53v5gZh7iE4fbL627tD-X2qOkyh32CQ",
+      "view_skin": "https://lh3.googleusercontent.com/3oUta0XOYlC_c4AvVM-Gts0mK4sZxgWnFZOrUt0ysVB9BeBquKHiXcS-bqurIWBbtXLn_BMY1GVYa5QCPD6XB_o4Jgerod3meDo"
+    },
+    {
+      "id": 8,
+      "name_skin": "Skin 8",
+      "skin_url": "https://lh3.googleusercontent.com/Y-Ju6VFdPS81ukTdrdK0RZmZMvd2sovD7jrVM9GF69EKbcjFoTGzuu0qQyTdKKFCrff6KAZYTnT6wyogcnNtHMvYfnj7MUc6iw",
+      "view_skin": "https://lh3.googleusercontent.com/69wm93HahjM6Acqdd8W3LGNCCoX9zi0DZg31AnQvoHVpHmxa7saqYbCLN19hKfPY0ht8MldFPcDJb9q1dP-KFqnVNyd2_mmeoA"
+    },
+    {
+      "id": 9,
+      "name_skin": "Skin 9",
+      "skin_url": "https://lh3.googleusercontent.com/7dnTCKTdeZ1cXIRFtcXujAAUYLk0hiKFJmDKfiRZcqqcA132xs4utCHdrIavQRFw-bLRKQqS5MBn0eD6jZl3gUA318JdjaDkNnwy",
+      "view_skin": "https://lh3.googleusercontent.com/Umd8aIwuUWZqrDpq9Hk4dCJefnfqT6JFtZ9NOIOM-5GvEGju2_qv81mL0KN_wgZjO9ZbklKkZmqV5vSwojZkz4ptzQNJSoiRCA"
+    },
+    {
+      "id": 10,
+      "name_skin": "Skin 10",
+      "skin_url": "https://lh3.googleusercontent.com/p2bHtJunskGjK7mm5gxOjf1dhkgvcp229JJ5G4X8s1yyTaItziZ-JKfIkAAGzaDh5OuLEvgG0lfYK9_3z0SXDeeaYbpUY_TRoWw",
+      "view_skin": "https://lh3.googleusercontent.com/214YvmhO5j_dPy86cwo1c2O5lkKUbryvqN5otkbbzjW-2tQY-GWqqp6UwoTcntDSye9hIARn6VB23rgyZWSqvNJ5xmzLswbqxf6Y"
+    },
+    {
+      "id": 11,
+      "name_skin": "Skin 11",
+      "skin_url": "https://lh3.googleusercontent.com/hd36u2pMWnCyxrAKOsEVu6cADKzWucIZJyeKBDucpJhpQ1XgBxp7F97CjRckPzd8zRY4DBJDH5MaENpmxRmD7HIAU2E0eMoyHQ",
+      "view_skin": "https://lh3.googleusercontent.com/IMp89wEl9cVIXFrK6sym4J1pD_nYS6-ejn3W06kazG5Pos-rTOcw8up2gPIINUZOpjIIK-jdLObgYX5GDJzRIYeXWP3O5slezsc"
+    },
+    {
+      "id": 12,
+      "name_skin": "Skin 12",
+      "skin_url": "https://lh3.googleusercontent.com/1V3PgvBt-v33jeFYrSXsFFuFQbg6z0Mz_ReqWA8RIKuCiIL1mirk9hV8r8xB0feLDa_fx-lnp8gNwcJzAFFZ7aak4fi9wFkVvA",
+      "view_skin": "https://lh3.googleusercontent.com/Ds4ueSmuBYZhH4VdG9By8T4rh8zSccWHX7A-1InD5EbW5oqzrpxtCJw6VJwUZDqOVl0goGD3nB--KUzy_gr8Z56qYXpgXSwkpik"
+    },
+    {
+      "id": 13,
+      "name_skin": "Skin 13",
+      "skin_url": "https://lh3.googleusercontent.com/iHuOyEVD3AuNOE7IvaiDgbx7ASQHqS-ce8zjW9QIOkzKODguicBagClAWADJRUUwUhxSB53z1sQMK28YqshnR61mo7SjNWxBag",
+      "view_skin": "https://lh3.googleusercontent.com/Xi7pHzKhdtWqQWCswn81_3O2hjL6NfBhXybnxK3W3r1bqMr-cphFJMpQa30wcjIshRJQOY17mykeVyLDVK5sE82UW4eixtl3mA"
+    },
+    {
+      "id": 14,
+      "name_skin": "Skin 14",
+      "skin_url": "https://lh3.googleusercontent.com/WNoiKe_jzB4JcQSDRxMEq2I5Lk7JAYO58YJahLpXP630KcY984kFySdhZCSVhwUcMzgPhK_VE_hjW5ulHcOGSjradEuM3e9o-On0",
+      "view_skin": "https://lh3.googleusercontent.com/aQBmvYBsa1QQT-ANIqpo3KeIb6HbNIi2upmr6Dleprer6b6CU324JH9CJJryaNkEggfZUAygg1YL3xaEwTj0wixQu_y7ClPy-pwH"
+    },
+    {
+      "id": 15,
+      "name_skin": "Skin 15",
+      "skin_url": "https://lh3.googleusercontent.com/ktkuDzLHWqJ21ECRaOoqcomPnQDGp0uAXcn72HoKg0ZwAFGRnbhP9bbwE8EZMNqv9PrIVujdggptnEUd4g88w83mpAxujG-i-w",
+      "view_skin": "https://lh3.googleusercontent.com/QveLrYlJkpDBry_5hMVeqU1sf2W4dw-tDauBzgkJ5O_J5XeCeGyfatYtKabybJ0wxTkrWfng_bgnJR7IQlxPOFheqXeQbgPF3G0"
+    },
+    {
+      "id": 16,
+      "name_skin": "Skin 16",
+      "skin_url": "https://lh3.googleusercontent.com/wqRwmqbJDwpLMQLafuaKyshUp0PZBvdCRjq2sThYz53OcAQHHLFhCsSU0lhtRHlekWnmgZRaN-MhtOKgUfgnXyj9ZYYYhuZN6Pw",
+      "view_skin": "https://lh3.googleusercontent.com/pRZOrqd2l6Ehuanh64fuDIu9a163642WBfTIB5Xr4Td46SYvbFBzB6k_9aGl2GmnskXMs50skDb5QEueznOcbhHR2kV3KHHqTg"
+    },
+    {
+      "id": 17,
+      "name_skin": "Skin 17",
+      "skin_url": "https://lh3.googleusercontent.com/pzBhOgSdUCPAF3E9h1zyYn8NWbIbxstEydfwkzhnKL4q7QIfKsnbt07QGnbgiUklxvm6Mo696FwIW4oEL3QNRw",
+      "view_skin": "https://lh3.googleusercontent.com/-zyJCa82q5mDqvD2FXEW3PBFyh2BEsofb8ejD7Hrig3vpoqNj2Elz8Rgwt2GQr8hbYc_eA4hn__j_hkjxIp_Gw"
+    },
+    {
+      "id": 18,
+      "name_skin": "Skin 18",
+      "skin_url": "https://lh3.googleusercontent.com/2U7FvL_SzpctmNqln4lB9zfyQUH5YIyKgR1fLjYbk1Ts2-vKD1EqcTOnS4kr9_-KbJDCN1cFevHF2mcMKAgx7Z-XddAp7re3OZI",
+      "view_skin": "https://lh3.googleusercontent.com/DaWuhknkF_Frzp41onHNE3IFnp0rPvVSl-vRPpMQOEmgmuDidWiRpFaYJ1GMFSSCA4nN-ExQbLAUfMkHBV5-6hktll4cCiJ_XAc"
+    },
+    {
+      "id": 19,
+      "name_skin": "Skin 19",
+      "skin_url": "https://lh3.googleusercontent.com/zEDoDU-3rsbyyh4gm6qxyufjB7r7iRNa3yugyOfziuDu4ys1ExXH1IG7cxMtGRUNalOuE5CjA1t3iCLPUeO7um80lQQ2Jb2Du58",
+      "view_skin": "https://lh3.googleusercontent.com/YG-IhhFU8fqeXteHX2FiA8FIswYmRtshiwcCcK9UE-OV_3xNWFga1qDt26CBe8tVkd8V5K36JBrzJr-GuhnJd1M7DI51hqvmPa8"
+    },
+    {
+      "id": 20,
+      "name_skin": "Skin 20",
+      "skin_url": "https://lh3.googleusercontent.com/0W2K0YSEmroVs4-M8Xxw5AppW-RCwbQ-CdwNp4NxyloWkzEl5f1wgkcH6Rr8vmJWXxx9ESCEs52r19nF0BJah2FkLKG1y7m19oNA",
+      "view_skin": "https://lh3.googleusercontent.com/aXlRzhhTLD3oiFkvxDrpKn7jEGCmueND_s85t_v2W664PuZn80AMDjL3Pq9sr52GnwVc23PxFgskSWckNryDwtncQengMOZt3A"
+    },
+    {
+      "id": 21,
+      "name_skin": "Skin 21",
+      "skin_url": "https://lh3.googleusercontent.com/c_1ydndTC6Yqn5LXGhWs-W50yevrybdvMycpt0x8XVy6tSg_ni7cGe_vEV4Jpk_utmPNpl4OoIv4vtvWA0IU",
+      "view_skin": "https://lh3.googleusercontent.com/OnevUGmwyCUqSH7pzXd66g9D-hhZOWm1r6Wjra_kEx32vqo1t4wxGm2vzTCN6Pi3mjsKWgD6YZuk3lGTNAudvw"
+    },
+    {
+      "id": 22,
+      "name_skin": "Skin 22",
+      "skin_url": "https://lh3.googleusercontent.com/nAKF9ymmTBnVAVwHTks3liC9pLPMy0-Fa6fVV5nYYKyA3owb4piS55WzQhCLtNJAUp6ES3VU37b1u1v3JVJFnTPZDfyvcFyMpVA",
+      "view_skin": "https://lh3.googleusercontent.com/tk0jzBHqsKJpBN0ASM2WA9pO967vA6pIl4uhFY-UX3m5NYXKxvQyz7soogT5S7FtSFfwJaiEANqED_3ZbdshpGlqvkUICStlDq8"
+    },
+    {
+      "id": 23,
+      "name_skin": "Skin 23",
+      "skin_url": "https://lh3.googleusercontent.com/Mzz0h_NnlzW7M2ZDu57TiQRHE2nfkMwyTz7GKuvkltWg1EGB-erR1xzORkXsYe8XEZcu9WTXeP0tSf49B6jxLp376525b_waKUA5",
+      "view_skin": "https://lh3.googleusercontent.com/F5AQslqjtww7RZ1msOAliOSq51-MXtS0gGPBD0rNUR0i51DbRsvwrZpTseoFe2JJ39OqY1P0WBgQL4nyrcyPXPIGaCLBYeGjJyQ"
+    },
+    {
+      "id": 24,
+      "name_skin": "Skin 24",
+      "skin_url": "https://lh3.googleusercontent.com/YIls6y8e9kqrTaOxn_7JiBezoPKq8DxFI7g3WKCar-KR1JFDk-tBg3nhjIjuNzZQpJouZ6S6LJqnEtDGnqo8RG4V3sVXDUll_2c",
+      "view_skin": "https://lh3.googleusercontent.com/qK8vbVHRs8_zeOuUNJupQlU8IyZWDbGY5Or2b3OrlLxkGZ7tTU5zUmCYUjkvDB3Im8waQlUDzITey2l_GMjVGdK47dUutVHmKw"
     }
-  
-
-      
-      
-      ]
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "link": "https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+    }
+  ]
 }
